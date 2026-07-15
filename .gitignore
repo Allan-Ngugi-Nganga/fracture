@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.env
+
+# Fracture data
+.fracture/
+
+# OS
+Thumbs.db
+.DS_Store

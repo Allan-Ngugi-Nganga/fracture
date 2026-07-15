@@ -1,0 +1,16 @@
+[project]
+name = "fracture"
+version = "0.1.0"
+description = "Measure your brain's fragmentation tax — context switch tracking for knowledge workers."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pygetwindow>=0.0.9",
+    "textual>=0.41.0",
+]
+
+[project.scripts]
+fracture = "fracture.daemon:main"
+
+[tool.setuptools.packages.find]
+include = ["fracture*"]
