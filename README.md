@@ -46,6 +46,10 @@ Run `fracture --dashboard` to see:
 - Zone breakdown with visual bars
 - Contextual insights and recommendations
 
+<p align="center">
+  <img src="fracture_dashboard.svg" alt="fracture dashboard" width="720">
+</p>
+
 ## Example Output
 
 ```
