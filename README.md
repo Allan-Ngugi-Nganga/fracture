@@ -1,5 +1,7 @@
 <h1 align="center">fracture</h1>
 <p align="center">
+  <img src="fracture_demo.svg" alt="fracture dashboard showing fragmentation stats" width="800">
+  <br>
   <em>Measure your brain's fragmentation tax.</em>
   <br>
   <br>
@@ -52,19 +54,11 @@ Run `fracture --dashboard` to see:
 
 ## Example Output
 
-```
-fracture — today's fragmentation
-  total switches:   214
-  productive:       47 (creation)
-  lost to switching: 492 min (8.2 h)
-  active window:    9.5 h
-  effective work:   1.3 h
-  breakdown:
-    creation: 47
-    communication: 89
-    consumption: 62
-    admin: 16
-```
+<p align="center">
+  <img src="fracture_demo.svg" alt="fracture dashboard — live Textual TUI dashboard showing fragmentation stats" width="720">
+</p>
+
+> The dashboard above shows the Textual TUI with live-updating stats and zone breakdown.
 
 ## FAQ
 
