@@ -17,7 +17,7 @@ fracture is a background daemon that watches your active windows and measures yo
 ## Quick Start
 
 ```bash
-pip install fracture
+pip install fragwatch
 fracture             # start tracking (foreground)
 fracture --daemon    # run in background
 fracture --dashboard # open the fragmentation dashboard

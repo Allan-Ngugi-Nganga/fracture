@@ -1,5 +1,5 @@
 [project]
-name = "fracture"
+name = "fragwatch"
 version = "0.1.0"
 description = "Measure your brain's fragmentation tax — context switch tracking for knowledge workers."
 readme = "README.md"
